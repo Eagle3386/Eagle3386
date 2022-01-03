@@ -16,6 +16,6 @@
 
 ⚡ Fun fact: It’s colder at night than outside! 🤪
 
-![My GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?hide_title=1&langs_count=10&layout=&theme=solarized-dark&username=eagle3386)
+![My GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?hide_title=1&langs_count=10&layout=compact&theme=solarized-dark&username=eagle3386)
 
 ![My GitHub participation stats](https://github-readme-stats.vercel.app/api?border_radius=5&count_private=1&hide_title=1&include_all_commits=1&show_icons=1&theme=solarized-dark&username=eagle3386)
