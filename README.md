@@ -12,9 +12,9 @@
 
 📫 How to reach me: e-mail or my blog.
 
-😄 Pronouns: I have not the slightest idea what GitHub’s template asks for... 🙈
+😄 Pronouns: he/him.
 
-⚡ Fun fact: It’s colder at night than outside! 🤪
+⚡ Fun fact: Always be yourself! Unless you can be Batman, then always be Batman. 🦇🤘🏻
 
 ![My GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?hide_title=1&langs_count=10&layout=compact&theme=solarized-dark&username=eagle3386)
 
