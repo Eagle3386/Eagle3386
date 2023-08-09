@@ -16,6 +16,6 @@
 
 ⚡ Fun fact: Always be yourself! Unless you can be Batman, then always be Batman. 🦇🤘🏻
 
-![My GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?hide_title=1&langs_count=10&layout=compact&theme=solarized-dark&username=eagle3386)
+![My GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Languages%20in%20own,%20non-forked%20repos&langs_count=10&layout=compact&theme=solarized-dark&username=eagle3386)
 
-![My GitHub participation stats](https://github-readme-stats.vercel.app/api?border_radius=5&count_private=1&hide_title=1&include_all_commits=1&show_icons=1&theme=solarized-dark&username=eagle3386)
+![My GitHub participation stats](https://github-readme-stats.vercel.app/api?border_radius=5&count_private=true&hide_title=true&include_all_commits=true&rank_icon=percentile&show=discussions_answered,discussions_started,reviews&show_icons=true&theme=solarized-dark&username=eagle3386)
