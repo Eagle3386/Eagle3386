@@ -2,20 +2,20 @@
 
 🔭 Currently working on being best father in the world & during leasure time on [TZN Flake](../../../tzn-flake).
 
-🌱 Currently learning home automation via EnOcean-based hardware & looking for preferably C#-based solutions.
+🌱 Currently learning home automation via Home Assistant with EnOcean hardware for roller shutters & struggling to deal with Python's "no curly braces, at all" philosophy.
 
-👯 Looking to collaborate on a (Mud)Blazor-based CMS.
+👯 Looking to collaborate on aforementioned EnOcean integration for Home Assistant & a Blazor-based CMS that could replace WordPress.
 
-🤔 Looking for help with C# P/Invoke regarding FLAC's C++ DLL.
+🤔 Looking for help with C# P/Invoke regarding FLAC's C++ DLL - about 100 CDs wait for processing them…
 
 💬 Ask me about anything you’d like. Seriously.
 
-📫 How to reach me: e-mail or my blog.
+📫 How to reach me: e-mail, GitHub or LinkedIn.
 
-😄 Pronouns: he/him.
+😄 Pronouns: he/him, but _human_ is preferred.
 
 ⚡ Fun fact: Always be yourself! Unless you can be Batman, then always be Batman. 🦇🤘🏻
 
-![My GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?custom_title=Languages%20in%20own,%20non-forked%20repos&langs_count=10&layout=compact&theme=solarized-dark&username=eagle3386)
-
-![My GitHub participation stats](https://github-readme-stats.vercel.app/api?border_radius=5&count_private=true&hide_title=true&include_all_commits=true&rank_icon=percentile&show=discussions_answered,discussions_started,reviews&show_icons=true&theme=solarized-dark&username=eagle3386)
+![My GitHub language stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
