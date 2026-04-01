@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Martin Arndt's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  : 594, Total PRs: 46, Total PRs Reviewed: 1, Total Issues: 155, Total Discussions Started: 6, Total Discussions Answered: 0, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  : 594, Total PRs: 46, Total PRs Reviewed: 1, Total Issues: 155, Total Discussions Started: 8, Total Discussions Answered: 0, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -226,7 +226,7 @@
         x="219.01"
         y="12.5"
         data-testid="discussions_started"
-      >6</text>
+      >8</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
