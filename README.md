@@ -1,12 +1,12 @@
 ### Hey there! 👋🏻🖖🏻🥳
 
-🔭 Currently working on being best father in the world & during leasure time on [TZN Flake](../../../tzn-flake).
+🔭 Constantly working on being best papa in the world & [TZN Flake](../../../tzn-flake) during rare minutes of leasure time.
 
-🌱 Currently learning home automation via Home Assistant with EnOcean hardware for roller shutters & struggling to deal with Python's "no curly braces, at all" philosophy.
+🌱 Currently learning home automation via Home Assistant with [EnOcean](https://github.com/henningkerstan/enocean-async) hardware & still struggling with Python's syntax, especiall its "no curly braces, at all" philosophy.
 
-👯 Looking to collaborate on aforementioned EnOcean integration for Home Assistant & a Blazor-based CMS that could replace WordPress.
+👯 Looking to collaborate on a Blazor-based CMS that could replace WordPress.
 
-🤔 Looking for help with C# P/Invoke regarding FLAC's C++ DLL - about 100 CDs wait for processing them…
+🤔 Striving for help with C# P/Invoke regarding FLAC's C++ DLL - about 100 CDs wait for processing them…
 
 💬 Ask me about anything you’d like. Seriously.
 
