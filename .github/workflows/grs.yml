@@ -29,7 +29,7 @@ jobs:
           card: top-langs
           options: custom_title=Languages%20in%20own,%20non-forked%20repos&langs_count=10&layout=compact&theme=solarized-dark&username=${{ github.repository_owner }}
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
 
       - name: Commit cards
         run: |
