@@ -1,12 +1,12 @@
 ### Hey there! 👋🏻🖖🏻🥳
 
-🔭 Constantly working on being best papa in the world & [TZN Flake](../../../tzn-flake) during rare minutes of leasure time.
+🔭 Constantly working on being best papa in the world & promoting Blazor usage throughout the Web.
 
-🌱 Currently learning home automation via Home Assistant with [EnOcean](https://github.com/henningkerstan/enocean-async) hardware & still struggling with Python's syntax, especiall its "no curly braces, at all" philosophy.
+🌱 Currently learning home automation via Home Assistant with [EnOcean](https://github.com/henningkerstan/enocean-async) hardware.
 
-👯 Looking to collaborate on a Blazor-based CMS that could replace WordPress.
+👯 Collaborating on the [new EnOcean integration](https://github.com/home-assistant/core/pull/161251) for Home Assistant.
 
-🤔 Striving for help with C# P/Invoke regarding FLAC's C++ DLL - about 100 CDs wait for processing them…
+🤔 Striving for help with C# P/Invoke regarding FLAC's C++ DLL to release [TZN Flake](../../../tzn-flake) some day - about 100 CDs are waiting…
 
 💬 Ask me about anything you’d like. Seriously.
 
