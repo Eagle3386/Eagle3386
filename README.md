@@ -16,5 +16,7 @@
 
 ⚡ Fun fact: Always be yourself! Unless you can be Batman, then always be Batman. 🦇🤘🏻
 
-![My GitHub language stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+![](../../../gh-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](../../../gh-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](../../../gh-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](../../../gh-stats/blob/generated/languages.svg#gh-light-mode-only)
