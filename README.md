@@ -20,7 +20,7 @@ Senior Software engineer who likes building things people enjoy using.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/3d-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/3d-light.svg" alt="3D contribution landscape: 92 contributions in the last year" width="100%" />
+  <img src="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/3d-light.svg" alt="3D contribution landscape: 94 contributions in the last year" width="100%" />
 </picture>
 
 <picture>
@@ -30,12 +30,12 @@ Senior Software engineer who likes building things people enjoy using.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/stats-light.svg" alt="GitHub stats: 92 contributions in the last 12 months. Current streak: 1 day, Longest streak: 4 days, Commits: 46 past year, Pull requests: 6 past year, Issues: 27 past year, Reviews: 2 past year, All-time: 605 since 2013, Best week: 26 in 7 days, Best day: 13 on Nov 3." width="100%" />
+  <img src="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/stats-light.svg" alt="GitHub stats: 94 contributions in the last 12 months. Current streak: 1 day, Longest streak: 4 days, Commits: 48 past year, Pull requests: 6 past year, Issues: 27 past year, Reviews: 2 past year, All-time: 607 since 2013, Best week: 26 in 7 days, Best day: 13 on Nov 3." width="100%" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/grid-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/grid-light.svg" alt="Contribution grid: 92 contributions in the last 12 months" width="100%" />
+  <img src="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/grid-light.svg" alt="Contribution grid: 94 contributions in the last 12 months" width="100%" />
 </picture>
 
 <picture>
