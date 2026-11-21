@@ -1,19 +1,17 @@
-<!--
-  Your profile README. Everything outside the profilescape markers is yours to edit.
-  Everything between the markers is rewritten by .github/workflows/profilescape.yml.
--->
+### Hey there, I'm Martin! 👋🏻🖖🏻🥳
 
-### Hi, I'm Your Name
+Senior Software engineer who likes building things people enjoy using.
 
-Software engineer who likes building things people enjoy using. Replace this paragraph with a sentence or two about what you do and what you care about.
-
-- Currently working on **a project you are proud of**
-- Learning **something new**
-- Ask me about **topics you love talking about**
-- Reach me at **your website, email or social handle**
+🔭 Constantly working on being best papa in the world & promoting Blazor usage throughout the Web.  
+🌱 Currently learning home automation via Home Assistant with [EnOcean](https://github.com/henningkerstan/enocean-async) hardware.  
+👯 Collaborating on the [new EnOcean integration](https://github.com/home-assistant/core/pull/161251) for Home Assistant.  
+🤔 Striving for help with C# P/Invoke regarding FLAC's C++ DLL to release [TZN Flake](../../../tzn-flake) some day - about 100 CDs are waiting…  
+💬 Ask me about anything you’d like. Seriously.  
+📫 Reach me via e-mail, GitHub or LinkedIn.  
+😄 Pronouns: he/him, but _human_ is preferred.  
+⚡ Fun fact: Always be yourself! Unless you can be Batman, then always be Batman. 🦇🤘🏻
 
 <!-- profilescape:start -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/hero-dark.svg" />
   <img src="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/hero-light.svg" alt="Martin Arndt — Delighted to build software that matters" width="100%" />
@@ -85,20 +83,4 @@ Software engineer who likes building things people enjoy using. Replace this par
     </td>
   </tr>
 </table>
-
 <!-- profilescape:end -->
-
----
-
-## Getting started
-
-_Delete this section once your cards show up._
-
-1. **Name the repository after your username.** GitHub shows the README of the repository named exactly like your account (for example `octocat/octocat`) on your profile. If you picked another name, rename it under **Settings → General**.
-2. **Run the workflow once.** Open the **Actions** tab, enable workflows if GitHub asks, choose **Profilescape** and click **Run workflow**. Your cards appear between the markers above in about a minute, then refresh every day.
-3. **Make it yours.** Edit the intro above, then change `theme`, `cards` and the other options in [`.github/workflows/profilescape.yml`](.github/workflows/profilescape.yml). Try every card and theme in the [playground](https://chethandvg.github.io/profilescape) first.
-4. **Optional: count private contributions.** The default workflow token only sees public activity. Create a [fine-grained personal access token](https://github.com/settings/personal-access-tokens/new) for your account with **All repositories** and the read-only **Contents** and **Metadata** repository permissions, save it under **Settings → Secrets and variables → Actions** as `PROFILESCAPE_TOKEN`, and the workflow picks it up automatically.
-
-GitHub pauses scheduled workflows in repositories with no activity for 60 days. If your cards stop updating, re-enable the workflow from the **Actions** tab.
-
-Made with [Profilescape](https://github.com/chethandvg/profilescape).
