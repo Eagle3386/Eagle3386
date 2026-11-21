@@ -12,6 +12,7 @@ Senior Software engineer who likes building things people enjoy using.
 ⚡ Fun fact: Always be yourself! Unless you can be Batman, then always be Batman. 🦇🤘🏻
 
 <!-- profilescape:start -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/hero-dark.svg" />
   <img src="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/hero-light.svg" alt="Martin Arndt — Delighted to build software that matters" width="100%" />
@@ -19,7 +20,7 @@ Senior Software engineer who likes building things people enjoy using.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/3d-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/3d-light.svg" alt="3D contribution landscape: 90 contributions in the last year" width="100%" />
+  <img src="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/3d-light.svg" alt="3D contribution landscape: 92 contributions in the last year" width="100%" />
 </picture>
 
 <picture>
@@ -29,12 +30,12 @@ Senior Software engineer who likes building things people enjoy using.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/stats-light.svg" alt="GitHub stats: 90 contributions in the last 12 months. Current streak: 1 day, Longest streak: 4 days, Commits: 44 past year, Pull requests: 6 past year, Issues: 27 past year, Reviews: 2 past year, All-time: 603 since 2013, Best week: 26 in 7 days, Best day: 13 on Nov 3." width="100%" />
+  <img src="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/stats-light.svg" alt="GitHub stats: 92 contributions in the last 12 months. Current streak: 1 day, Longest streak: 4 days, Commits: 46 past year, Pull requests: 6 past year, Issues: 27 past year, Reviews: 2 past year, All-time: 605 since 2013, Best week: 26 in 7 days, Best day: 13 on Nov 3." width="100%" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/grid-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/grid-light.svg" alt="Contribution grid: 90 contributions in the last 12 months" width="100%" />
+  <img src="https://raw.githubusercontent.com/Eagle3386/Eagle3386/profilescape-output/grid-light.svg" alt="Contribution grid: 92 contributions in the last 12 months" width="100%" />
 </picture>
 
 <picture>
@@ -83,4 +84,5 @@ Senior Software engineer who likes building things people enjoy using.
     </td>
   </tr>
 </table>
+
 <!-- profilescape:end -->
