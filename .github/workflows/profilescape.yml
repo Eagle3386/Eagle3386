@@ -18,15 +18,80 @@ concurrency:
 
 jobs:
   cards:
-    # Skip the template repository itself; runs in every repository created from it.
-    if: github.repository != 'chethandvg/profilescape-template'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - uses: chethandvg/profilescape@v1
         with:
-          cards: hero,stats,3d,languages,repos,socials
-          theme: aurora
+          cards: hero,3d,stack,stats,grid,languages,repos
+          theme: solarized
           readme: README.md
           # Optional: add a PROFILESCAPE_TOKEN secret to include private contributions.
           token: ${{ secrets.PROFILESCAPE_TOKEN || github.token }}
+          config: |
+            {
+              "options": {
+                "hero": {
+                  "name": "Martin Arndt",
+                  "role": "Delighted to build software that matters",
+                  "tagline": "Papa ♥ | Blazor & C# soul | Advocate of EUPL, Firefox & Home Assistant",
+                  "chips": [
+                    ".NET",
+                    "Blazor",
+                    "C#",
+                    "gRPC",
+                    "HTML",
+                    "PostgreSQL"
+                  ],
+                  "code": "var me = new Engineer\r\n  {\r\n   Name   = \"Martin Arndt\",\r\n   Base   = \"Hannover, DE\",\r\n   Stack  = [\"Blazor\", \"C#\", \"gRPC\", \"SQL\"],\r\n   Focus  = \"Doc’d, tested code. Always.\",\r\n   Remote = true };\r\nawait me.RunAsync();",
+                  "codeLanguage": "csharp",
+                  "codeFile": "EngineerAsync.cs"
+                },
+                "3d": {
+                  "title": "I ❤️ Open Source"
+                },
+                "stack": {
+                  "icons": [
+                    ".NET",
+                    "Blazor:Blazor (WASM)",
+                    "C#",
+                    "Copilot",
+                    "HTML",
+                    "CSS",
+                    "Git",
+                    "MariaDB",
+                    "MySQL",
+                    "Oracle",
+                    "PostgreSQL",
+                    "SQLite",
+                    "MSSQL",
+                    "Jupyter",
+                    "Azure",
+                    "DFX:DocFX",
+                    "MD",
+                    "EF:EF Core",
+                    "LINQ",
+                    "gRPC",
+                    "VS"
+                  ],
+                  "perRow": 7
+                },
+                "stats": {
+                  "metrics": [
+                    "currentStreak",
+                    "longestStreak",
+                    "commits",
+                    "pullRequests",
+                    "issues",
+                    "reviews",
+                    "allTime",
+                    "bestWeek",
+                    "bestDay"
+                  ]
+                },
+                "languages": {
+                  "weighting": "bytes",
+                  "top": 7
+                }
+              }
+            }
